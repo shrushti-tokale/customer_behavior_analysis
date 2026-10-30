@@ -97,7 +97,7 @@ Through this project, I gained practical experience in:
 
 ### Step 1: Clone the Repository
 
-git clone <>
+git clone <https://github.com/shrushti-tokale/customer_behavior_analysis.git>
 
 
 ### Step 2: Install Required Libraries
